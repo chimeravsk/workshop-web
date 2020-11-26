@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cuscuz de milho | Cuscuz nordestino</title>
+        <style>
+            .page-title {
+                color: black;
+                font-size: 64px;
+            }
+            .text {
+                color: black;
+            }
+        </style>
+    </head>
+
+
+    <body>
+
+    <h1><b>Cuscuz de milho | Cuscuz nordestino</b></h1>
+
+    <img width="0" height="0" scr="https://cozinhatecnica.com/wp-content/uploads/2020/02/cuscuz-de-milho-scaled-e1582211347651.jpg" title="Imagem ilustrativa" />
+
+    <p class="text">Cuscuz de milho é uma receita brasileira preparada com farinha de milho flocada ou flocos de milho pré-cozidos, água e sal.</p>
+    
+    <h2 class="text"><b>Vamos aos ingredientes:</b></h2>
+
+    <ul>
+        <li>150 g farinha de milho flocada ou flocos de milho pré-cozidos (flocão) (1 xícara)
+        <li>120 g de água filtrada em temperatura ambiente (120 ml | 1/2 xícara)
+        <li>2 g de sal (1/2 colher de chá)
+
+
+    <h2 class="text"><b>Vamos ao preparo:</b></h2>
+
+    <ol class="text">
+        <li>Prepare os ingredientes (mise en place): separe todos os ingredientes e meça-os, deixando-os devidamente prontos para o início da receita. Esta etapa é importante para o sucesso da sua receita, pois evita surpresas no meio do processo.
+        <li>Em uma tigela média, adicione a farinha de milho e o sal. Em seguida, adicione a água aos poucos, mexendo com uma colher até que toda a farinha esteja úmida. Deixe hidratar por 15 minutos.
+        <li>Prepare a panela a vapor: Adicione água na parte inferior da cuscuzeira ou na panela para cozimento a vapor. Leve ao fogo médio até que a água esteja fervendo.
+        <li>Coloque a farinha no cesto de cozimento: transfira a farinha para o cesto de cozimento ou para um coador comum, que encaixe na panela com água quente. Molde sem apertar, pois queremos que o ar circule entre os grãos de farinha
+        <li>Molde: Solte o cuscuz com um garfo e, se preferir, molde com uma tigela pequena
+        <li>Sirva: Sirva o cuscuz morno com manteiga, queijo coalho, carne seca, requeijão, ovos, etc
+    
+
+    
+    <!-- adicionar link aqui -->
+    <a href="https://cozinhatecnica.com/2020/02/cuscuz-de-milho-cuscuz-nordestino/">
+        Confira mais receitas aqui
+    </a>
+    
+    
+
+    </body>
+</html>
